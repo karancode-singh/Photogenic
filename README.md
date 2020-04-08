@@ -55,8 +55,8 @@
 <img src="imgs/2-1_2.jpg" width="400"/>
 
 ### Intermediate Images
-<img src="temp/temp_1550455729.209237.jpg" width="400"/>
-<img src="temp/temp_1550455730.37698.jpg" width="400"/>
+<img src="temp/temp_158633041686.jpg" width="400"/>
+<img src="temp/temp_158633041466.jpg" width="400"/>
 
 ### Output 1
 <img src="result/out2-1.jpg" width="400"/>
