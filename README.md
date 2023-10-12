@@ -1,8 +1,7 @@
 # Photogenic
 ### Best Photo Generation from Multiple Group Photographs
 
-#### Find the paper @ https://ieeexplore.ieee.org/document/9036212. Feel free to cite.
-
+I am glad to share that this feature was (kinda) copied in 2023 by Google for their Pixel Phones. See https://blog.google/products/photos/google-photos-features-pixel-8-pro/
 
 ## Installing Requirements
 ``` pip install opencv-python dlib imutils```
